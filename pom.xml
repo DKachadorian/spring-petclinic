@@ -1,4 +1,3 @@
-<!-- Commenting out
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns="http://maven.apache.org/POM/4.0.0"
@@ -16,7 +15,7 @@
   <name>petclinic</name>
 
   <properties>
--->
+
     <!-- Generic properties -->
     <java.version>1.8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
