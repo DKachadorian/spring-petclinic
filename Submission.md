@@ -2,7 +2,7 @@
 5 pts Your GitHub account showing that is has been forked from the depaulcdm/springpetclinic repository. This doesn’t actually need an image – I can see it
 from your repository.
 
-
+I have forked it from the original repo.
 
 
 
